@@ -1,0 +1,6 @@
+System,wt%,Surface,CN_mean,CN_std,Free_pct,Free_std,CIP_pct,CIP_std,Agg_pct,Agg_std,D_FSI_cm2_s
+Reference,0,--,1.770,0.026,3.65,0.13,24.42,0.6,71.94,0.57,3.22e-10
+BareLow,~10 (9.90),native silanol,1.771,0.034,11.68,0.93,18.01,0.52,70.31,0.85,4.67e-10
+BareHigh,~30 (29.49),native silanol,1.749,0.011,17.49,0.66,16.36,0.91,66.15,0.29,8.10e-10
+FuncLow,~10 (1.046 grp/nm2),urea-grafted,1.613,0.024,13.26,0.65,22.59,1.04,64.15,1.26,1.14e-9
+FuncHigh,~30 (1.023 grp/nm2),urea-grafted,1.708,0.016,9.77,0.55,15.22,0.79,75.01,1.14,8.96e-10

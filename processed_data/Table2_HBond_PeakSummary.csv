@@ -1,0 +1,6 @@
+System,ureaNH_FSI_O_peak_g,ureaNH_FSI_O_peak_r_A,silanolO_FSI_O_peak_g,silanolO_FSI_O_peak_r_A
+Reference,NA,NA,NA,NA
+BareLow,NA,NA,1.19,2.65
+BareHigh,NA,NA,2.13,2.65
+FuncLow,2.81,1.95,2.35,2.55
+FuncHigh,1.0,4.35,1.31,2.55

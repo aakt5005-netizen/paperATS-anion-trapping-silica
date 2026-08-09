@@ -1,0 +1,6 @@
+System,CN_mean,CN_std,li_cutoff_A,trajectory_ns
+Reference,1.770,0.026,2.55,100
+BareLow,1.771,0.034,2.55,100
+BareHigh,1.749,0.011,2.65,100
+FuncLow,1.613,0.024,2.55,100
+FuncHigh,1.708,0.016,2.55,100
