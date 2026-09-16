@@ -44,7 +44,18 @@ Raw molecular dynamics trajectories (multiple gigabytes per system) are
 not included in this repository due to size, and are available from the
 corresponding author upon reasonable request.
 
-## Contact
+## R2 Revision (September 2026)
+
+Added in response to peer review.
+
+**scripts/**
+- `hbond_angle_occupancy_lifetime.py` — urea N-H···FSI hydrogen-bond occupancy and bonded-state duration, using a combined distance (H···O < 2.5 Å) and angle (N-H···O > 130°) criterion
+- `hbond_blocks.py` — block-averaged version of the above (5 × 20 ns blocks, mean ± standard deviation)
+
+**processed_data/**
+- `Table_HBond_Occupancy_Lifetime.csv` — block-wise hydrogen-bond occupancy and bonded-state duration for FuncLow and FuncHigh at 5, 10 and 20 ps frame spacing (underlies Figure 4 and Section 3.3 of the revised manuscript)
+-
+- ## Contact
 
 Dr. Alok Kumar Tripathi
 Ramjas College, University of Delhi, India, 110007
